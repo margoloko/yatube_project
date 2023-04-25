@@ -12,4 +12,5 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
-### Автор Марина
+### Author:
+[Balakhonova Marina](https://github.com/margoloko)
