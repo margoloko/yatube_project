@@ -12,5 +12,8 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
+## Технологии
+- Python
+- Django 2.2.9
 ### Author:
 [Balakhonova Marina](https://github.com/margoloko)
